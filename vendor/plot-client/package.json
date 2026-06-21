@@ -1,0 +1,11 @@
+{
+  "name": "@plot/client",
+  "version": "0.1.0",
+  "description": "Vendored self-contained build of @plot/client for the demo. Replace with `npm i @plot/client` once published.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.d.ts",
+  "exports": { ".": { "types": "./index.d.ts", "import": "./index.js" } }
+}

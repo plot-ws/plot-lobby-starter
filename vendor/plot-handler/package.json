@@ -1,0 +1,11 @@
+{
+  "name": "@plot/handler",
+  "version": "0.1.0",
+  "description": "Vendored @plot/handler (defineRoom + types) for the demo. Replace with `npm i @plot/handler` once published.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.d.ts",
+  "exports": { ".": { "types": "./index.d.ts", "import": "./index.js" } }
+}
