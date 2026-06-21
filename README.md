@@ -1,3 +1,13 @@
+<p align="center"><a href="https://plot.ws"><img src=".github/banner.png" alt="Plot lobby starter" width="880"></a></p>
+
+<p align="center">
+  <a href="./LICENSE"><img src="https://img.shields.io/github/license/plot-ws/plot-lobby-starter?color=0d0d0c" alt="License: MIT"></a>
+  <a href="https://docs.plot.ws"><img src="https://img.shields.io/badge/docs-plot.ws-0F62FE" alt="Docs"></a>
+  <a href="https://discord.gg/plot"><img src="https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://github.com/plot-ws/plot-lobby-starter/actions/workflows/ci.yml"><img src="https://github.com/plot-ws/plot-lobby-starter/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="./CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-24A148" alt="PRs welcome"></a>
+</p>
+
 # Plot lobby starter
 
 A minimal, fully-working boilerplate for **lobby-based multiplayer** on
